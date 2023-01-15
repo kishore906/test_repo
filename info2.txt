@@ -2,4 +2,8 @@ some text in info2
 
 some more text added.
 
+<<<<<<< HEAD
 Merge conflict text added..
+=======
+Merge text added from test_merge branch.
+>>>>>>> test_merge
