@@ -1,3 +1,5 @@
 some text in info2
 
 some more text added.
+
+Merge text added from test_merge branch.
